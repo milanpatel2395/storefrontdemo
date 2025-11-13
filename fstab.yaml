@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://content.da.live/{org}/{site}/
+    url: https://content.da.live/milanpatel2395/storefrontdemo/
     type: markup
 
 folders:
